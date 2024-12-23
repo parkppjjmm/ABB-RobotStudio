@@ -87,7 +87,7 @@
   - 사용자가 자주 묻는 질문
 
 #### **10. 미래 계획**
-- **자격증 취득 기회**
-  - ABB 공인 인증 과정
+- **환경 통합**
+  - Unity / Unreal Engine ↔ ABB RobotStudio Simulation
 - **지속적인 학습 및 고급 주제**
   - AI 및 머신 러닝 활용
